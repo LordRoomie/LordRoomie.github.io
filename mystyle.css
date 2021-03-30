@@ -1,0 +1,24 @@
+html {
+    background: white;
+}
+.header {
+  padding: 0px;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  margin: 10%;
+  color: black;
+  padding: 30px;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #f2f2f2;
+  color: black;
+}
