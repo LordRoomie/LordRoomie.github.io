@@ -16,7 +16,11 @@ body {
 
 .topnav a {
   color: black;
-  padding: 9%;
+  padding:10%;
+  margin-left: 3.3333%;
+    margin-right: inherit;
+
+
 
   font-size: 30px;
 }
